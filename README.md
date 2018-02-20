@@ -1,2 +1,2 @@
 # analogBoard
-These are the Eagle files for the Analof Board
+These are the Eagle files for the Analog Board
